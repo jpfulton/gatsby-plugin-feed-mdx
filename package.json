@@ -1,7 +1,7 @@
 {
   "name": "@jpfulton/gatsby-plugin-feed-mdx",
   "description": "Creates an RSS feed for your Gatsby MDX site.",
-  "version": "1.1.0",
+  "version": "0.0.1",
   "author": "J. Patrick Fulton <jpatrick.fulton@gmail.com>",
   "dependencies": {
     "@babel/runtime": "^7.22.6",
