@@ -2,16 +2,13 @@
   "name": "gatsby-plugin-feed-mdx",
   "description": "Creates an RSS feed for your Gatsby MDX site.",
   "version": "1.1.0",
-  "author": "Thomas Wang <thomas@wang.sh>",
-  "bugs": {
-    "url": "https://github.com/thomaswang/gatsby-plugin-feed-mdx/issues"
-  },
+  "author": "J. Patrick Fulton <jpatrick.fulton@gmail.com>",
   "dependencies": {
     "@babel/runtime": "^7.12.13",
     "@hapi/joi": "^15.1.1",
     "common-tags": "^1.8.0",
     "fs-extra": "^8.1.0",
-    "gatsby-plugin-utils": "^1.0.0-next.0",
+    "gatsby-plugin-utils": "^4.11.0",
     "lodash.merge": "^4.6.2",
     "rss": "^1.2.2"
   },
@@ -21,7 +18,7 @@
     "babel-preset-gatsby-package": "^1.0.0-next.0",
     "cross-env": "^7.0.3"
   },
-  "homepage": "https://github.com/thomaswang/gatsby-plugin-feed-mdx",
+  "homepage": "https://github.com/jpfulton/gatsby-plugin-feed-mdx",
   "keywords": [
     "atom",
     "feed",
@@ -33,11 +30,11 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^3.0.0-next.0"
+    "gatsby": "^5.0.0-next"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomaswang/gatsby-plugin-feed-mdx"
+    "url": "https://github.com/jpfulton/gatsby-plugin-feed-mdx"
   },
   "scripts": {
     "build": "babel src --out-dir . --ignore **/__tests__",
@@ -45,6 +42,6 @@
     "watch": "babel -w src --out-dir . --ignore **/__tests__"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=18.16.0"
   }
 }
