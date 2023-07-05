@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-feed-mdx",
+  "name": "@jpfulton/gatsby-plugin-feed-mdx",
   "description": "Creates an RSS feed for your Gatsby MDX site.",
   "version": "1.1.0",
   "author": "J. Patrick Fulton <jpatrick.fulton@gmail.com>",
