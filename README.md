@@ -11,7 +11,7 @@ It was forked to update package references to that latest Gatsby.
 
 ## Install
 
-`yarn install --save gatsby-plugin-feed-mdx`
+`yarn install gatsby-plugin-feed-mdx`
 
 ## How to Use
 
