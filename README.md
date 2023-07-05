@@ -1,5 +1,7 @@
 # gatsby-plugin-feed-mdx
 
+[![ci](https://github.com/jpfulton/gatsby-plugin-feed-mdx/actions/workflows/ci.yml/badge.svg)](https://github.com/jpfulton/gatsby-plugin-feed-mdx/actions/workflows/ci.yml)
+
 This is a fork of [gatsby-plugin-feed-mdx](https://github.com/thomaswangio/gatsby-plugin-feed-mdx)
 which is a fork of
 [gatsby-plugin-feed](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-feed). Create an RSS feed (or multiple feeds) for your Gatsby site with MDX.
