@@ -18,7 +18,7 @@ module.exports = {
   plugins: [
     {
       {
-      resolve: `gatsby-plugin-feed-mdx`,
+      resolve: `@jpfulton/gatsby-plugin-feed-mdx`,
       options: {
         query: `
           {
