@@ -2,6 +2,7 @@
 
 [![ci](https://github.com/jpfulton/gatsby-plugin-feed-mdx/actions/workflows/ci.yml/badge.svg)](https://github.com/jpfulton/gatsby-plugin-feed-mdx/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/%40jpfulton%2Fgatsby-plugin-feed-mdx.svg)](https://www.npmjs.com/package/@jpfulton/gatsby-plugin-feed-mdx)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=jpfulton.gatsby-plugin-feed-mdx")]()
 
 This is a fork of [gatsby-plugin-feed-mdx](https://github.com/thomaswangio/gatsby-plugin-feed-mdx)
 which is a fork of
